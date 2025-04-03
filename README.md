@@ -9,7 +9,7 @@ Hi, I'm Mukadas! I have an analytical mind and a passion for data. This reposito
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
   - [Machine Learning]
-    - [Analyzing the Factors Contributing to the Success of a Movie](#analyzing-the-factors-contributing-to-the-success-of-a-movie)
+    - [ML prediction of purchases on e commerce website](#ML prdiction of purchase.ipynb)
     - [Tech Store Sales Analysis](#tech-store-sales-analysis)
   - [SQL](#sql)
     - [Covid 19 Data Exploration](#covid-19-data-exploration)
