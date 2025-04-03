@@ -9,7 +9,7 @@ Hi, I'm Mukadas! I have an analytical mind and a passion for data. This reposito
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
   - [Machine Learning]
-    - [ML prediction of purchases on e commerce website](ML prdiction of purchase.ipynb)
+    - [ML prediction of purchases on e commerce website] https://github.com/MukadasAK/Machine-Learning-projects/blob/6dbda6f704669e5d3a3b1e1bdad3f4f971a45ed3/ML%20prdiction%20of%20purchase.ipynb
     - [Tech Store Sales Analysis](#tech-store-sales-analysis)
   - [SQL](#sql)
     - [Covid 19 Data Exploration](#covid-19-data-exploration)
