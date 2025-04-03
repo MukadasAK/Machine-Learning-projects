@@ -1,2 +1,3 @@
-# ecommerce-purchase-prediction
- 
+# Mukadas Akhtar- Machine Learning projects
+# About
+## Hi, I'm Mukadas! I have completed my degree in Data Science (MS. AI and Data Analytics). During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems. 
